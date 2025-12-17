@@ -8,5 +8,5 @@ permalink: /cv/
 [Download my resume]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [claire@mckfamily.com](mailto:claire@mckfamily.com) | | | **Phone:** +415 720 2073
+**Email:** [claire@mckfamily.com](mailto:claire@mckfamily.com) | | | **Phone:** 415 720 2073
 
